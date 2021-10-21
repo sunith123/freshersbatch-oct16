@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-This is Master branch
+This is JS branch
 This is html branch
 Hello
 ||||||| 78584b4
