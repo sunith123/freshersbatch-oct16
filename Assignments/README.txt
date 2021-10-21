@@ -1,12 +1,3 @@
-This is HTML Assignment
-
-Hi Hello everyone
-This is a text file
-<<<<<<< HEAD
-
-||||||| 75314e6
-branch name html-assignments
-=======
-
-This is fourth line
->>>>>>> html-assignments
+This is Master branch
+This is html branch
+Hellooo
